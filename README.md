@@ -1,6 +1,6 @@
-# **My Project Plan (Level 1 Heading)**
+# My Project Plan (Level 1 Heading)
 ***Note:*** This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
-### **Proposal (Level 3 Heading)**
+**### Proposal (Level 3 Heading)**
 ---
 
 I am planning to make a computer vision software that detects objects in images.
@@ -11,13 +11,13 @@ For example, the objects in the following images were detected using [mmdetectio
 ![images](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png)
 
 ---
-### **Dependencies (Level 3 Heading)**
+**### Dependencies (Level 3 Heading)**
 - python
 - opencv-python
 - tensorflow
 - openmmlab
 - package manager
-### **Installation**
+**### Installation**
 In an bash terminal, run the following commands (*Do NOT actually run these commands in your computer*):
 ```sh
 $ sudo apt update
